@@ -24,3 +24,7 @@
 - `npm run dev`：启动 Vite 预览 UI（不等同于扩展模式）
 - 扩展调试推荐：修改代码后 `npm run build`，然后在扩展管理页点击“重新加载”
  - 图标在构建时自动生成（占位用 1x1 PNG），可替换为你自己的 PNG 文件
+
+## 隐私
+
+隐私政策见 [PRIVACY.md](PRIVACY.md)。
