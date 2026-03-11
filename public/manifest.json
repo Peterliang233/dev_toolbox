@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dev Toolbox",
   "description": "日常开发工具箱：时间戳转换、JSON 格式化、文本/列表互转、文本转义",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "action": {
     "default_title": "Dev Toolbox",
     "default_icon": {
